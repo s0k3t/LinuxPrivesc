@@ -20,7 +20,7 @@ In this study, we will see how a poorly administered user can be abused and how 
 
 We will explore basic examples of Linux privilege escalation as a [CTF-like](https://www.hackthebox.com/blog/what-is-ctf) journey. There are more advanced exploits that involve more attack vectors like exploiting softwares at the source but this is not the point of the topic. In our presentation, we will detail three attacks:
 
-- The Kernel, we will use a VM with Ubuntu 16.04 LTS and its vulnerable kernel (4.4.0-116).
+- The Kernel, we will use a VM with Ubuntu 16.04 LTS and its vulnerable kernel.
 
 - Cron jobs, we will use a VM with Debian 11 and a wrongly privileged crontab.
 
