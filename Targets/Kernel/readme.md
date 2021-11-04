@@ -41,4 +41,9 @@ and simply google `exploit db linux 5.8.0 -63` to get this [link](https://www.ex
 
 :triangular_flag_on_post: **0day exploits are very usual, some stay underground many years, fortunately analysts work everyday on this topic and release fixes as soon as possible to protect our systems, a very good practice is to update frequently after testing the solution and staying aware from adequate sources.**
 
+#### Live demonstration
+-----------------------
+
+For our demonstration, we use an old release, [Ubuntu LTS 16.04.4-116 LTS](http://old-releases.ubuntu.com/releases/16.04.4/) in a VM.
+The payload is a well-known [dirty.cow](https://www.exploit-db.com/exploits/44298)
 
