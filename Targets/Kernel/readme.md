@@ -1,5 +1,5 @@
-### Kernel Exploits
-___________________
+### Kernel
+__________
 
 #### Kernel Overview
 --------------------
